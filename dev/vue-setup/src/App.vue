@@ -1,8 +1,6 @@
-<script >
+<script setup >
    import { ref } from 'vue';
 
-  export default {
-    setup() {
       const name = ref('Yasser Fathallah');
       const status = ref('active');
       const tasks = ref(['Task 1', 'Task 2', 'Task 3']);
@@ -13,16 +11,7 @@
         else if(status.value === 'pending') status.value ='inactive';
         else status.value = 'active';
       }
-      
-      return{
-        name,
-        status,
-        tasks,
-        link,
-        toggleStatus
-      }
-    }
-  }
+        
 </script>
 
 <template>
