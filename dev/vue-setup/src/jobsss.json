@@ -1,4 +1,4 @@
-{"jobs" :[
+[
   {
     "id": 1,
     "title": "Senior Vue Developer",
@@ -82,19 +82,5 @@
       "contactEmail": "contact@ipsumlorem.com",
       "contactPhone": "555-555-5555"
     }
-  },  
-  {
-    "id": 7,
-    "title": "Vue Developer",
-    "type": "slave-Time",
-    "description": "We are seeking a talented Front-End Developer to join our team as a slave.",
-    "location": "Egypt, Mansoura",
-    "salary": "$1K - $2k",
-    "company": {
-      "name": "quack quack",
-      "description": "quak quak quak quaaak!",
-      "contactEmail": "contact@quak.com",
-      "contactPhone": "000-000-0000"
-    }
   }
-]}
+]
