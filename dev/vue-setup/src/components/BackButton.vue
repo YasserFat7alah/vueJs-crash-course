@@ -1,5 +1,5 @@
 <script setup>
-import RouterLink from 'vue-router';
+import { RouterLink } from 'vue-router';
 </script>
 
 <template>
@@ -9,7 +9,7 @@ import RouterLink from 'vue-router';
           to="/jobs"
           class="text-green-500 hover:text-green-600 flex items-center"
         >
-          <i class="fas fa-arrow-left mr-2"></i> Back to Job Listings
+          <i class="pi pi-arrow-circle-left mr-3"></i> Back to Job Listings
         </RouterLink>
       </div>
     </section>

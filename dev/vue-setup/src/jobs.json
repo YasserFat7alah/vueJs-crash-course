@@ -1,100 +1,298 @@
-{"jobs" :[
-  {
-    "id": 1,
-    "title": "Senior Vue Developer",
-    "type": "Full-Time",
-    "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-    "location": "Boston, MA",
-    "salary": "$70K - $80K",
-    "company": {
-      "name": "NewTek Solutions",
-      "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-      "contactEmail": "contact@teksolutions.com",
-      "contactPhone": "555-555-5555"
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Vue Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (Vue)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Vue.js Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "location": "Brooklyn, NY",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Vue Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Pheonix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Vue Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Vue Developer",
+      "type": "slave-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team as a slave.",
+      "location": "Egypt, Mansoura",
+      "salary": "$1K - $2k",
+      "company": {
+        "name": "quack quack",
+        "description": "quak quak quak quaaak!",
+        "contactEmail": "contact@quak.com",
+        "contactPhone": "000-000-0000"
+      }
+    },
+    {
+      "id": "49e7",
+      "title": "Katelyn Armstrong",
+      "type": "Internship",
+      "description": "Fugit molestiae cup",
+      "location": "Dolorum eos maxime ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Norton and Hopkins Trading",
+        "description": "Quas sed in eum dolo",
+        "contactEmail": "botixor@mailinator.com",
+        "contactPhone": "+1 (924) 354-3339"
+      }
+    },
+    {
+      "id": "4716",
+      "title": "Darrel Valenzuela",
+      "type": "Internship",
+      "description": "Ex irure ut necessit",
+      "location": "Sint quos animi ani",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Lynch and Mitchell LLC",
+        "description": "Harum sit ipsam fac",
+        "contactEmail": "muran@mailinator.com",
+        "contactPhone": "+1 (727) 179-7759"
+      }
+    },
+    {
+      "id": "12ae",
+      "title": "Rina Chandler",
+      "type": "Internship",
+      "description": "Aut deserunt tempori",
+      "location": "Odio saepe ut qui fu",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Deleon and Bryan Traders",
+        "description": "Itaque quo cupiditat",
+        "contactEmail": "foxajar@mailinator.com",
+        "contactPhone": "+1 (117) 575-6993"
+      }
+    },
+    {
+      "id": "8bf9",
+      "title": "Rahim Cherry",
+      "type": "Internship",
+      "location": "Est recusandae Nec",
+      "description": "Veritatis laboris du",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Tanner and Patel Co",
+        "description": "Ut velit velit non",
+        "contactEmail": "tyxyvabafe@mailinator.com",
+        "contactPhone": "+1 (108) 432-4217"
+      }
+    },
+    {
+      "id": "5ddd",
+      "title": "Illana Thornton",
+      "type": "Internship",
+      "location": "Veniam illo eos ut ",
+      "description": "Sit recusandae Ear",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Madden Richards LLC",
+        "description": "Velit vel cupiditate",
+        "contactEmail": "fobaqyseju@mailinator.com",
+        "contactPhone": "+1 (553) 405-3155"
+      }
+    },
+    {
+      "id": "db88",
+      "title": "Mallory Bradshaw",
+      "type": "Part-Time",
+      "location": "In et enim harum ea ",
+      "description": "Quia excepteur maxim",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Fuller and Woods Traders",
+        "description": "Quas aperiam atque q",
+        "contactEmail": "nucahavi@mailinator.com",
+        "contactPhone": "+1 (667) 623-8565"
+      }
+    },
+    {
+      "id": "8866",
+      "title": "Nissim Daniel",
+      "type": "Part-Time",
+      "location": "Et ut at qui assumen",
+      "description": "Maxime voluptatum au",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Schultz and Huffman Inc",
+        "description": "Ad sequi cupidatat a",
+        "contactEmail": "vopih@mailinator.com",
+        "contactPhone": "+1 (937) 315-5478"
+      }
+    },
+    {
+      "id": "22d7",
+      "title": "Ciaran Elliott",
+      "type": "Part-Time",
+      "location": "Dolores similique ne",
+      "description": "Ut eiusmod obcaecati",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Pate Roth Inc",
+        "description": "Aute tempore pariat",
+        "contactEmail": "kezyroz@mailinator.com",
+        "contactPhone": "+1 (267) 368-8152"
+      }
+    },
+    {
+      "id": "7350",
+      "title": "Jessamine Buchanan",
+      "type": "Full-Time",
+      "location": "Iusto nemo non dolor",
+      "description": "Sint est laborum ex",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Green and Jefferson Trading",
+        "description": "Qui voluptates moles",
+        "contactEmail": "qofecoc@mailinator.com",
+        "contactPhone": "+1 (885) 481-6956"
+      }
+    },
+    {
+      "id": "b00d",
+      "title": "Zorita Hardy",
+      "type": "Remote",
+      "location": "Est delectus dolor",
+      "description": "Nostrud voluptates t",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Mcclain Rivera Plc",
+        "description": "Nostrum aspernatur q",
+        "contactEmail": "bukejoxyt@mailinator.com",
+        "contactPhone": "+1 (913) 478-8826"
+      }
+    },
+    {
+      "id": "3594",
+      "title": "Yoshio Cooley",
+      "type": "Internship",
+      "location": "Irure tempora quidem",
+      "description": "Velit voluptate tene",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Berg and Pennington LLC",
+        "description": "Necessitatibus eius ",
+        "contactEmail": "kesyja@mailinator.com",
+        "contactPhone": "+1 (823) 906-2658"
+      }
+    },
+    {
+      "id": "eb44",
+      "title": "Colby Duke",
+      "type": "Full-Time",
+      "location": "Qui ut totam vitae v",
+      "description": "Earum hic consequunt",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Sherman and Golden Trading",
+        "description": "Iste architecto et q",
+        "contactEmail": "lony@mailinator.com",
+        "contactPhone": "+1 (134) 735-5925"
+      }
+    },
+    {
+      "id": "a8f0",
+      "title": "Aaron Cannon",
+      "type": "Remote",
+      "location": "Earum vel fugit exp",
+      "description": "Occaecat ipsam ducim",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Hansen and Mathews Co",
+        "description": "Aperiam aut ipsam in",
+        "contactEmail": "hesy@mailinator.com",
+        "contactPhone": "+1 (363) 842-6739"
+      }
+    },
+    {
+      "id": "f11f",
+      "title": "Regan Malone",
+      "type": "Internship",
+      "location": "Mollitia perferendis",
+      "description": "A porro delectus eu",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Hurley and Davenport Co",
+        "description": "Exercitationem inven",
+        "contactEmail": "hukoda@mailinator.com",
+        "contactPhone": "+1 (433) 689-3724"
+      }
     }
-  },
-  {
-    "id": 2,
-    "title": "Front-End Engineer (Vue)",
-    "type": "Full-Time",
-    "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-    "location": "Miami, FL",
-    "salary": "$70K - $80K",
-    "company": {
-      "name": "Veneer Solutions",
-      "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-      "contactEmail": "contact@loremipsum.com",
-      "contactPhone": "555-555-5555"
-    }
-  },
-  {
-    "id": 3,
-    "title": "Vue.js Developer",
-    "type": "Full-Time",
-    "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-    "location": "Brooklyn, NY",
-    "salary": "$70K - $80K",
-    "company": {
-      "name": "Dolor Cloud",
-      "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-      "contactEmail": "contact@dolorsitamet.com",
-      "contactPhone": "555-555-5555"
-    }
-  },
-  {
-    "id": 4,
-    "title": "Vue Front-End Developer",
-    "type": "Part-Time",
-    "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-    "location": "Pheonix, AZ",
-    "salary": "$60K - $70K",
-    "company": {
-      "name": "Alpha Elite",
-      "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
-      "contactEmail": "contact@adipisicingelit.com",
-      "contactPhone": "555-555-5555"
-    }
-  },
-  {
-    "id": 5,
-    "title": "Full Stack Vue Developer",
-    "type": "Full-Time",
-    "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-    "location": "Atlanta, GA",
-    "salary": "$90K - $100K",
-    "company": {
-      "name": "Browning Technologies",
-      "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-      "contactEmail": "contact@consecteturadipisicing.com",
-      "contactPhone": "555-555-5555"
-    }
-  },
-  {
-    "id": 6,
-    "title": "Vue Native Developer",
-    "type": "Full-Time",
-    "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-    "location": "Portland, OR",
-    "salary": "$100K - $110K",
-    "company": {
-      "name": "Port Solutions INC",
-      "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-      "contactEmail": "contact@ipsumlorem.com",
-      "contactPhone": "555-555-5555"
-    }
-  },  
-  {
-    "id": 7,
-    "title": "Vue Developer",
-    "type": "slave-Time",
-    "description": "We are seeking a talented Front-End Developer to join our team as a slave.",
-    "location": "Egypt, Mansoura",
-    "salary": "$1K - $2k",
-    "company": {
-      "name": "quack quack",
-      "description": "quak quak quak quaaak!",
-      "contactEmail": "contact@quak.com",
-      "contactPhone": "000-000-0000"
-    }
-  }
-]}
+  ]
+}
