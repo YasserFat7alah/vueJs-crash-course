@@ -1,5 +1,6 @@
 <script setup>
 import PulseLoader from 'vue-spinner/src/PulseLoader.vue';
+import BackButton from '@/components/BackButton.vue';
 import { reactive, onMounted } from 'vue';
 import { useRouter, RouterLink, useRoute } from 'vue-router';
 
@@ -14,20 +15,23 @@ const state = reactive({
 
 });
 
-onMounted(async() =>{
+onMounted(async () => {
   try {
-    const res = await axios.get(`http://localhost:5000/jobs`);
-    state.job = res.data[jobId-1];
+    const response = await axios.get(`/api/jobs/${jobId}`);
+    state.job = response.data;
   } catch (error) {
-    console.error("Error fetching job data");
+    console.error('Error fetching job', error);
   } finally {
     state.isLoading = false;
   }
 });
 
+
 </script>
 
 <template>
+  <BackButton />
+
   <!-- Show Loading spinner while loading -->
   <div v-if="state.isLoading" class="text-center text-gray-500 py-6">
                 <PulseLoader />
